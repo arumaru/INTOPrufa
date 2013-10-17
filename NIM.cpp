@@ -35,6 +35,7 @@ int main( )
 	do
 	{
 		cout << endl << endl << endl;
+		cout << "Almar meldar sig. Guten Tag! :3" << endl << endl;
 		cout << "                ADALVALMYND " << endl << endl;
 		cout << "                      1. Spila NIM" << endl;
 		cout << "                      2. Birta reglurnar i NIM" << endl;
